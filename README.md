@@ -16,7 +16,7 @@
     <img align="center" alt="Eclipse" width="26px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" />
     <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
     <img align="center" alt="Java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
-    <img align="center" alt="Maven" width="20px" src="https://static-00.iconduck.com/assets.00/file-type-maven-icon-766x1024-86phvtjn.png" />
+    <img align="center" alt="Maven" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/640px-Apache_Maven_logo.svg.png" />
     <img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
     <img align="center" alt="GitHub" width="26px" src="https://icon-library.com/images/github_png63.png" />
   </div>
